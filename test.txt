@@ -2,4 +2,8 @@ Hello world
 
 # Hi
 
+<<<<<<< HEAD
 aslkdjlkjlkjlkasdjlkadslkjasd;lkjas;lkdjl;j
+=======
+didididididididi
+>>>>>>> 1c51a67927c20d504933f35d99da75fd546c8660
