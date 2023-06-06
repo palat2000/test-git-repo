@@ -6,9 +6,4 @@ line 5
 
 
 
-<<<<<<< HEAD
 rebase
-=======
-
-line 10
->>>>>>> 10c0189 (line10)
